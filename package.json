@@ -1,0 +1,15 @@
+{ 
+  "name": "flatten-json",
+  "version": "1.0.0",
+  "description": "Apify act for extracting all arrays from input JSON and extending their elements with the core object",
+  "main": "main.js",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cermak-petr/act-flatten-json"
+  },
+  "dependencies": {
+    "apify": "latest",
+    "underscore": "latest"
+  }
+}
