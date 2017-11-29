@@ -9,7 +9,7 @@
     "url": "https://github.com/cermak-petr/act-flatten-json"
   },
   "dependencies": {
-    "apify": "latest",
-    "underscore": "latest"
+    "apify": "^0.4.37",
+    "underscore": "^1.8.3"
   }
 }
